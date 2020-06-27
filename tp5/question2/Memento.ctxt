@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Memento
+comment1.params=liste
+comment1.target=Memento(java.util.List)
+comment2.params=
+comment2.target=java.util.List\ getListe()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

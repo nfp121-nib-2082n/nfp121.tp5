@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CareTaker
+comment1.params=
+comment1.target=CareTaker()
+comment2.params=memento
+comment2.target=void\ add(Memento)
+comment3.params=
+comment3.target=Memento\ get()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
